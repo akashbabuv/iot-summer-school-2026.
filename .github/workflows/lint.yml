@@ -1,1 +1,17 @@
+name: Count Arduino Files
 
+on:
+  push:
+
+jobs:
+  count-ino-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count .ino files
+        run: |
+          count=$(find . -name "*.ino" | wc -l)
+          echo "Number of .ino files: $count"
