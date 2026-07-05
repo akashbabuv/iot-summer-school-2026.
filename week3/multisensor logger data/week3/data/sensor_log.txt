@@ -1,1 +1,38 @@
+five readings 
+
+
+=== SENSOR LOG ===
+Time      : 25604 ms
+Temp      : 24.00 C | Humidity: 73.50%
+Light     : 22% (Dark)
+Distance  : 397.63 cm
+==================
+
+=== SENSOR LOG ===
+Time      : 46025 ms
+Temp      : 24.00 C | Humidity: 73.50%
+Light     : 22% (Dark)
+Distance  : 215.76 cm
+==================
+==================
+=== SENSOR LOG ===
+Time      : 71555 ms
+Temp      : -12.00 C | Humidity: 42.50%
+Light     : 22% (Dark)
+Distance  : 215.66 cm
+==================
+==================
+=== SENSOR LOG ===
+Time      : 81760 ms
+Temp      : -12.00 C | Humidity: 78.50%
+Light     : 22% (Dark)
+Distance  : 104.40 cm
+==================
+==================
+=== SENSOR LOG ===
+Time      : 102175 ms
+Temp      : 28.90 C | Humidity: 90.00%
+Light     : 86% (Bright)
+Distance  : 258.47 cm
+==================
 
