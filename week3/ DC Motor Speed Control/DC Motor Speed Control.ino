@@ -4,20 +4,6 @@ Project : DC Motor Speed Control
 Author  : Akash Babu
 ====================================
 
-Connections:
-
-L298N
-ENA -> D9 (PWM)
-IN1 -> D8
-IN2 -> D7
-
-Potentiometer
-Middle -> A0
-
-Direction Button -> D2
-Start/Stop Button -> D3
-
-Buttons use INPUT_PULLUP
 */
 
 const int ENA = 9;
